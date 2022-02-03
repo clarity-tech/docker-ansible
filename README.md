@@ -8,6 +8,10 @@ to deploy playbooks.
 
 Python  3.7.6
 
+[Image Tags](
+https://github.com/clarity-tech/docker-ansible/pkgs/container/docker-ansible)
+
+
 The image has following installed versions
 
 
